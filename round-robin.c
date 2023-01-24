@@ -1,5 +1,4 @@
 #include<stdio.h> 
- 
 int main() 
 { 
   int count,j,n,time,remain,flag=0,time_quantum; 
