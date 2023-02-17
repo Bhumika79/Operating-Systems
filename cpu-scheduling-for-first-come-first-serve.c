@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <conio.h>
-int main()
-{
+int main(){
     int n,i,j,sum=0;
     int arrv[10],ser[10],start[10];
     int finish[10],wait[10],turn[10];
