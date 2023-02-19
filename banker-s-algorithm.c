@@ -1,5 +1,4 @@
 #include <stdio.h>
- 
 int current[5][5], maximum_claim[5][5], available[5];
 int allocation[5] = {0, 0, 0, 0, 0};
 int maxres[5], running[5], safe = 0;
