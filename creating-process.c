@@ -1,8 +1,7 @@
 #include<stdio.h>
 #include <sys/types.h> 
 #include <unistd.h>
-int main()
-{
+int main(){
 
   int pid;
   printf("\n Enter the process id:");
