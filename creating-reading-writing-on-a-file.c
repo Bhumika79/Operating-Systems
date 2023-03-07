@@ -1,6 +1,5 @@
 #include <stdio.h>
-int main()
-{
+int main(){
     FILE *fp;
     fp  = fopen ("data.txt", "w");
     int i;
