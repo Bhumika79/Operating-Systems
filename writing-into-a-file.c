@@ -4,7 +4,6 @@ int main() {
     char name[50];
     int roll_no,  i, n;
     float marks;
- 
     fp = fopen("marks.txt", "w");
  
     if(fp == NULL) {
