@@ -10,7 +10,7 @@ int main() {
         printf("file can't be opened\n");
         exit(1);
     }
- 
+
     printf("Enter the number of student details you want to enter: ");
     scanf("%d", &n);
  
