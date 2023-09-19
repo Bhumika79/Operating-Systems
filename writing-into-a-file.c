@@ -5,7 +5,6 @@ int main() {
     int roll_no,  i, n;
     float marks;
     fp = fopen("marks.txt", "w");
-
     if(fp == NULL) {
         printf("file can't be opened\n");
         exit(1);
