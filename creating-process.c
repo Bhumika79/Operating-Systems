@@ -2,7 +2,6 @@
 #include <sys/types.h> 
 #include <unistd.h>
 int main(){
-
   int pid;
   printf("\n Enter the process id:");
   scanf("%d", pid);
