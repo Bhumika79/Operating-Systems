@@ -13,7 +13,6 @@
         scanf("%d",&bt[i]);
         p[i]=i+1;         
     }
-  
    //sorting of burst times
     for(i=0;i<n;i++)
     {
