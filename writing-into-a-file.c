@@ -11,7 +11,6 @@ int main() {
     }
     printf("Enter the number of student details you want to enter: ");
     scanf("%d", &n);
-    
     for(i = 0; i < n; i++) {
         fflush(stdin);
         printf("\nEnter the details of student %d \n\n", i +1);
