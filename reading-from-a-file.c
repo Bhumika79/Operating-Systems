@@ -8,6 +8,7 @@ int main() {
         // Program exits if file pointer returns NULL.
         exit(1);
     }
+    
     // reads text until newline is encountered
     fscanf(fptr, "%[^\n]", c);
     printf("Data from the file:\n%s", c);
